@@ -1,0 +1,1 @@
+1.gradle 迁移 kts：https://mp.weixin.qq.com/s/mVqShijGTExtQ_nLslchpQ
